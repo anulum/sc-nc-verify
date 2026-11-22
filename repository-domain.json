@@ -3,12 +3,13 @@
   "claims": [],
   "domain_runtime_dependencies": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "owner_group": "SC-NEUROMORPHIC-COMPUTING-SYSTEMS",
   "planned_owned_schema_ids": [
     "sc_nc_verify.ir_equivalence_proof.v1",
     "sc_nc_verify.fault_campaign.v1"
   ],
+  "public_remote": "https://github.com/anulum/sc-nc-verify",
   "qualified_owned_schema_ids": [],
   "repository_name": "SC-NC-VERIFY",
   "tooling_python": {

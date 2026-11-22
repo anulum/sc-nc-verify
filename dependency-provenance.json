@@ -3738,7 +3738,7 @@
       ".github/workflows/codeql.yml": "4a60d4c40f2bee8b425c220a768c5d2e499dd8b14b1f5fb6307de17f4ede505d",
       ".github/workflows/docs.yml": "0727f0b460634046216482f04fadd49f3032079a01488b7861c7edf7c20428c9",
       ".github/workflows/pre-commit.yml": "60d791488ee73461a23da6c30483ef950e1bde4177c47ef2488f7634ace67f08",
-      ".github/workflows/sbom.yml": "453629e039612026aa26d9c07c185a55dee63691ee80ac4c53d80367ddbd02d0",
+      ".github/workflows/sbom.yml": "7d09d4f9293199a5e9e1adeca97437289898ac870630bd7fbeeaeb9ecae34c62",
       ".github/workflows/scorecard.yml": "2d74e97aae4c46c3812ebd6eb2235e7a0ef5929712a6cffb22ac6baa843d1409",
       ".github/workflows/security-audit.yml": "9d89fd47538cd08c668ce02411d582f7ae905da4056faecdca166c2fae735be2",
       ".pre-commit-config.yaml": "0204eb31bc64a6484b7ea1ba6fab129f42c3bc8cb7b51c3e709bd11af4d39127",
@@ -3749,7 +3749,7 @@
       "requirements-dev.txt": "91d2056f4bd34fb1d3abb3c0912dc5233df4ae7b00a084240cbd533eb5b61f76",
       "requirements-rejection.in": "ac05d9c9330d88a4f27fa0bb3b7f739bc6315b78f77cb56955537774e659e4d9",
       "requirements-rejection.txt": "dfdf7636ab3da165179c10ef5eed667b6b0273bdba81ae6bbb87c955b48a59f9",
-      "workflow-provenance.json": "1ac3aab12a63d742c76fb17b04ec78da5004b4f0a0b4efe435357139eec78f4d"
+      "workflow-provenance.json": "feb221ca61c339f584e6e56ae1490820927187e3bd6c5b1fb071cc2b6d11a797"
     },
     "installed_metadata_sha256": {
       "mkdocs-1.6.1.dist-info/METADATA": "fc27725a75617c8fa3a63108f1086ec2149071d6f8edf790a30b586f7700b34e",

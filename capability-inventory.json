@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "SC-NC-VERIFY",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "88a52d998dcdd29d221853d8c274b18910e2920be3efb7a769180bc4222f69d9"
+    "sha256": "0cfe45141d51896f35bf99437c66122f88235f0817cdbef49757705f5b9138ae"
   }
 }

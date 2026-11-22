@@ -12,6 +12,8 @@ SC-NC-VERIFY — repository foundation
 
 SC-NC Verify is being built as the verification layer split out of SC-NeuroCore: the equivalence proofs between a network and its compiled form, the fault-injection campaigns that test its resilience, and the formal verification standard and evidence packets that carry the results to safety cases and acceptance. It imports SC-NC Core, SC-NC Catalogue, SC-NC Engine, SC-NC Analysis and SC-NC Compiler. This checkout contains repository validation tooling and documentation only. Full foundation qualification is in progress. There is no installed equivalence prover, fault-campaign runner, evidence-packet issuer or qualified record schema.
 
+SC-NC Verify is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 **What does not exist yet:**
 - any code moved from SC-NeuroCore;
 - a registered runtime record schema;
