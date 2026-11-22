@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for the verification of spiking networks and their compiled forms, as one repository of the SC-NeuroCore split. No equivalence prover, fault-campaign runner, evidence-packet issuer, moved SC-NeuroCore code or registered record format is released.",
+  "keywords": [
+    "formal verification",
+    "fault injection",
+    "equivalence checking",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "SC-NC Verify",
+  "upload_type": "software"
+}
